@@ -1,6 +1,6 @@
 # Portfolio Website iwanbork.com
 
-Implemented in MATLAB.
+Implemented in React (Javascript).
 
 Only developed by me.
 
